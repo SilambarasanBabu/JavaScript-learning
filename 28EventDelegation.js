@@ -9,3 +9,5 @@ document.getElementById("form").addEventListener("keyup", (e) => {
     e.target.value = e.target.value.toUpperCase();
   }
 });
+
+//Event delegation is pattern that efficently handles a event
