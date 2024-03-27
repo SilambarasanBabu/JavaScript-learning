@@ -11,3 +11,7 @@ const s1 = new Student(1, "Leg", 95, 62);
 console.log(s1.details());
 
 //never use arrow function to create new prototype function
+
+//prototype is an object in which other objects inherit properties and methods
+
+//prototype inhertance is the process of where object inherit properties and methods from a prototype object
