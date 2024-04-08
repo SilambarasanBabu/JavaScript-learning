@@ -15,4 +15,7 @@ var abs = {
 abs.full = "Karky Indu";
 
 console.log(abs);
+
+//getter is used to acesses a method as a propery
+//setter is used to upadate a function in side object  ***functions inside a object are immutable so we use Set
 //this is from pg 22 before this you have to refer notes

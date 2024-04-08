@@ -10,5 +10,4 @@ Object.defineProperty(obj, "hobby", {
 obj.id = 10;
 console.log(obj);
 
-
 //it is used to add new properties directly on an object

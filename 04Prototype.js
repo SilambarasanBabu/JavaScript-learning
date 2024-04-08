@@ -14,4 +14,4 @@ console.log(s1.details());
 
 //prototype is an object in which other objects inherit properties and methods
 
-//prototype inhertance is the process of where object inherit properties and methods from a prototype object
+//prototype inhertance is the process where an object inherits properties and methods from another object via its prototype.
